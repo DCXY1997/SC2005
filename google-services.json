@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154217868145",
+    "project_id": "road-guardian-9553b",
+    "storage_bucket": "road-guardian-9553b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154217868145:android:74aa12007e37f21291e4d0",
+        "android_client_info": {
+          "package_name": "com.example.roadguardian20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCPSt9Y2gujQb5eA6pbGF7BLF8WcQKAbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
